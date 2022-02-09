@@ -1,4 +1,4 @@
-This repository contains my work for the [Computer Vision Nanodegree]()https://www.udacity.com/course/computer-vision-nanodegree--nd891 offered by Udacity. Three projects are included:
+This repository contains my work for the [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) offered by Udacity. Three projects are included:
 
 - project 1: [Facial Key Point detection using a CNN](project1_facial_keypoint_detection).
 
